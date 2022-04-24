@@ -6,5 +6,5 @@ public class Main {
         int bonusMiles = priceTicket / step;
 
         System.out.println("Начислено бонусных миль:" + bonusMiles);
-            }
+    }
 }
